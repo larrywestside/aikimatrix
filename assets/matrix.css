@@ -12,6 +12,7 @@ h1 { font-size: 0.9em; }
 .kyu-3 { background-color: #00FF00; }
 .kyu-4 { background-color: #FF950E; }
 .kyu-5 { background-color: #FFFF00; }
+.kyu-6 { background-color: #DDDDDD; }
 
 .kyu.missing {
   opacity: 0.25;
