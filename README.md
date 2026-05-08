@@ -2,7 +2,6 @@ Aikimatrix
 ==========
 The Aikimatrix is a video link list collection for all Aikido Kyu exam techniques
 
-- Mobile: https://larrywestside.github.io/aikimatrix/mobile/
 - Desktop: https://larrywestside.github.io/aikimatrix/
 
 
