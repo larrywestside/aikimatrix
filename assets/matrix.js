@@ -199,4 +199,4 @@ $(function() {
     $(".modal-body").empty();
     $dlg.hide();
   })
-})
+}).trigger("change");
