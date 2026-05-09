@@ -347,6 +347,10 @@ matrix.push({
       },
       20 : {
         "label" : "tachi waza - gyaku hanmi katate dori - sumi otoshi"
+      },
+      22 : {
+        "label" : "tachi waza - gyaku hanmi katate dori - tenkan hō",
+        "youtube" : {"video" : "NsrLLu1NYAg", "time" : [202, 0]}
       }
     },
 
