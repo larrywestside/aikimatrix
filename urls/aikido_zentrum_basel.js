@@ -67,7 +67,10 @@ matrix.push({
 
     3 : {
       21 : {
-        "label" : "suwari waza - ryote dori - kokyo ho"
+        "label" : "suwari waza - ryote dori - kokyo ho",
+        "youtube" : {
+          "video" : "NsrLLu1NYAg",
+          "time" : [60, 0]
       }
     },
 
