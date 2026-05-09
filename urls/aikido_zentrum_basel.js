@@ -9,7 +9,7 @@ matrix.push({
   name : "Aikido Zentrum Basel",
   tag : "Aikido.Zentrum.Basel",
   url : "https://www.aikidozentrumbasel.ch/",
-  default: false,
+  default: true,
   urls : {
     1 : {
       1 : {
