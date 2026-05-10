@@ -320,7 +320,8 @@ matrix.push({
         "youtube" : {
           "video" : "EJVxiyWvt3I",
           "time" : [79, 0]
-       },
+        }
+      },
       12 : {
         "label" : "tachi waza - gyaku hanmi katate dori - tenchi nage",
         "youtube" : {
