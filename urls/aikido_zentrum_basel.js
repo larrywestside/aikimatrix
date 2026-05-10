@@ -316,8 +316,11 @@ matrix.push({
         }
       },
       11 : {
-        "label" : "tachi waza - gyaku hanmi katate dori - sokumen irimi nage"
-      },
+        "label" : "tachi waza - gyaku hanmi katate dori - sokumen irimi nage",
+        "youtube" : {
+          "video" : "EJVxiyWvt3I",
+          "time" : [79, 0]
+       },
       12 : {
         "label" : "tachi waza - gyaku hanmi katate dori - tenchi nage",
         "youtube" : {
